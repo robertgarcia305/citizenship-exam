@@ -423,7 +423,7 @@ const questions = [
     {
         id: 80,
         question: "Who was President during the Great Depression and World War II? ",
-        answer: ["Franklin) Roosevelt"]
+        answer: ["(Franklin) Roosevelt"]
     }, 
     {
         id: 81,
@@ -497,7 +497,7 @@ const questions = [
     }, 
     {
         id: 95,
-        question: "What is the capital of the United States?*",
+        question: "Where is the Statue of Liberty?*",
         answer: ["New York (Harbor)", "Liberty Island", "[Also acceptable are New Jersey, near New York City, and on the Hudson (River).]"]
     }, 
     {
